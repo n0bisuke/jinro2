@@ -949,8 +949,8 @@
 	        casting = ['general', 'wizard', 'wolf'];
 	        mes = "村人,占い師,人狼";
 	    }else if(num === 4){
-	        casting = ['general', 'general', 'thief', 'wolf'];
-	        mes = "人狼,怪盗,村人,村人";
+	        casting = ['general', 'fox', 'thief', 'wolf'];
+	        mes = "人狼,怪盗,妖狐,村人";
 	    }else if(num === 5){
 	        casting = ['general', 'wizard', 'thief', 'crazy', 'wolf'];
 	        mes = "村人,怪盗,占い師,人狼,狂人";
